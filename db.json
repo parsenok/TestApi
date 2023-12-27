@@ -1,0 +1,37 @@
+﻿{
+  "Posts": [
+    {
+      "Id": 1,
+      "comments_count": 2,
+      "comments_like": 1,
+      "comments_repost": 0,
+      "User": "John NeJohn"
+    }
+  ],
+  "Comments": [
+    {
+      "Id": 1,
+      "text": "some comment",
+      "coms_like": 1
+    }
+  ],
+  "User": [
+    {
+      "ID": 1,
+      "Name": "John NeJohn",
+      "Login": "etopravdapochta@gmail.com"
+    }
+  ],
+  "Sub": [
+    {
+      "Id": 1,
+      "User": "John NeJohn"
+    }
+  ],
+  "U_Sub": [
+    {
+      "Id": 1,
+      "User": "John NeJohn"
+    }
+  ]
+}
